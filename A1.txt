@@ -14,3 +14,6 @@
 
 8) This is eigth line
 9) This is nineth line
+
+10) Adding line1 for f1
+11) Adding line2 for f2
